@@ -1,0 +1,18 @@
+{
+    "kind": "collectionType",
+    "collectionName": "listnames",
+    "info": {
+        "singularName": "listname",
+        "pluralName": "listnames",
+        "displayName": "listname"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "namee": {
+            "type": "string"
+        }
+    }
+}

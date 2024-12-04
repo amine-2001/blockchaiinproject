@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "votes",
+  "info": {
+    "singularName": "vote",
+    "pluralName": "votes",
+    "displayName": "vote",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "toProposal": {
+      "type": "integer"
+    },
+    "voterAddress": {
+      "type": "text"
+    }
+  }
+}
